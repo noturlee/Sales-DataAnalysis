@@ -1,6 +1,6 @@
 <img src ="Images/banner.gif"/>
 
-# README: Sales Prediction Using Machine Learning
+# Sales Prediction Model
 
 ## Table of Contents
 1. [Overview](#overview)
