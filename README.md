@@ -35,6 +35,8 @@ Data preprocessing involves:
 ## 4. Data Loading
 The advertising dataset is loaded from a CSV file containing columns for 'TV', 'Radio', 'Newspaper' advertising expenditures, and 'Sales'.
 
+<img src="https://images.squarespace-cdn.com/content/v1/61f30f2d94a2222a9c7f5389/8c1fe081-054b-4d2e-bae4-bbcbaf320bf2/client-layered.gif" width="400"/>
+
 ## 5. Exploratory Data Analysis (EDA)
 EDA is performed to:
 - Visualize relationships between features and target variable ('Sales').
